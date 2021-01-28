@@ -10,7 +10,7 @@ _____________________________________________________________________________
  
 ### interests <h3>
 _____________________________________________________________________________
-:rainbow: Be a Beautiful designer of User Interface <br />
+:rainbow: I would like to be a Beautiful designer of User Interface design <br />
 :umbrella: Front-end development <br />
 :computer: HTML/CSS/JavaScript programming languages <br />
 :space_invader: Play many games during my life <br />
