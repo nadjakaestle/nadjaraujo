@@ -1,5 +1,4 @@
-# **Nadja Araújo** <h1> 
-## **About me** <h2>
+## **About me** <h1>
 * 24 years old
 * Developer ||  UI design
 * Computer science
