@@ -17,6 +17,4 @@ _____________________________________________________________________________
 
 ### stats <h3>
 _____________________________________________________________________________  
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadjaraujo&layout=compact&theme=tokyonight)
-  <br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadjaraujo&langs_count=10&layout=compact&theme=tokyonight&nadjaraujo&hide=Roff,Makefile)
