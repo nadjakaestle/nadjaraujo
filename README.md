@@ -6,10 +6,10 @@ _____________________________________________________________________________
  
 ### interests <h3>
 _____________________________________________________________________________
-:rainbow: design User Interface <br />
+:rainbow: Be a Beautiful design User Interface <br />
 :umbrella: Front-end development <br />
-:computer: HTML/CSS/JavaScript <br />
-:space_invader: Games
+:computer: HTML/CSS/JavaScript programming languages <br />
+:space_invader: Play many games during my life <br />
 
 ### stats <h3>
 _____________________________________________________________________________  
