@@ -9,6 +9,7 @@ _____________________________________________________________________________
 :rainbow: design User Interface <br />
 :umbrella: Front-end development <br />
 :computer: HTML/CSS/JavaScript <br />
+:space_invader: Games
 
 ### stats <h3>
 _____________________________________________________________________________  
