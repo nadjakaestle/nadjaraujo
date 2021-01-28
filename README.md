@@ -1,3 +1,4 @@
+## **Nadja Araújo (nana)** <h2>
 ### **About me** <h3>
 _____________________________________________________________________________
  
@@ -9,7 +10,7 @@ _____________________________________________________________________________
  
 ### interests <h3>
 _____________________________________________________________________________
-:rainbow: Be a Beautiful design User Interface <br />
+:rainbow: Be a Beautiful designer of User Interface <br />
 :umbrella: Front-end development <br />
 :computer: HTML/CSS/JavaScript programming languages <br />
 :space_invader: Play many games during my life <br />
